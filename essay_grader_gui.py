@@ -17,7 +17,7 @@ except ImportError:
     TKINTER_DND_AVAILABLE = False
 
 # ====================== 配置区 ======================
-DEEPSEEK_API_KEY = "sk-b2daed9e6e4b47e89d066608069b2e19"
+DEEPSEEK_API_KEY = "***********"
 MODEL_NAME = "deepseek-chat"
 
 # ====================== OCR ======================
